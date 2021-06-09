@@ -14,7 +14,7 @@ This repository contains:
 
 - [X] A copy of the original paper, with my notes;
 - [X] The .pptx file of the presentation submitted for the course and used to explain the paper to the class;
-- [ ] The .mp4 of the final paper presentation video submitted for evaluation;
+- [X] The .mp4 of the final paper presentation video submitted for evaluation;
 - [X] Additional resources;
 
 ## License
